@@ -1,0 +1,16 @@
+
+.links{
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: x-large;
+}
+
+.links a{
+    color: black;
+}
+
+.links a:hover {
+    color: rgb(255, 0, 0);
+    transition: 0.5s;
+}
+
